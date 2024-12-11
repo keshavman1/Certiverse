@@ -25,8 +25,8 @@ Many issues occured while using the latest solidity version to deploy the contra
 
 | Name            | Github                                         | Discord         |
 | --------------- | ---------------------------------------------- | --------------- |
-| Kundan Kumar | [@Kundan](https://github.com/InfiniteCoder100)   | codefunky   |
-| Harsh Shende | [@harshshen](https://github.com/Harshshen)   | harsh shende  |
+| Keshav Mantry | [@Keshavman1](https://github.com/keshavman1)   | codefun  |
+
 
 ## Set up Project
 Here's how to setup and run the project locally :
@@ -73,5 +73,3 @@ npm run dev
   or
 yarn dev
 ````
-### License 
-MIT
